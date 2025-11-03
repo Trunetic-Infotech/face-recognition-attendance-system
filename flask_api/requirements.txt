@@ -3,3 +3,8 @@ flask-cors
 firebase-admin
 cloudinary
 gunicorn
+reportlab
+numpy
+opencv-python
+face_recognition
+opencv-python-headless
